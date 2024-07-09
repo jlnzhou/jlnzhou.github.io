@@ -42,7 +42,7 @@ Reach out to me!
 ### Miscellaneous
 I'm actually not certain of the correct spelling and pronunciation of the word “Miscellaneous".\
 I like food, food, and sleep.\
-I fear the dark, existential dread, and discovering a fatal flaw in of my (still hypothetical) published paper.
+I fear the dark, existential dread, and discovering a fatal flaw in one of my (still hypothetical) published papers.
 
 -----
 ### Contact
