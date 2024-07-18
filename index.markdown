@@ -7,40 +7,47 @@ I am a Phd student at Inria Grenoble-Alpes and [Criteo AI Lab][CAIL]. \
 I work under the supervision of:
 - [Julyan Arbel][JA] from [Inria Statify][Statify],
 - [Pierre Gaillard][PG] from [Inria Thoth][Thoth],
-- Thibaud Rahier from [Criteo AI Lab][CAIL].
+- [Thibaud Rahier][TR] from [Criteo AI Lab][CAIL].
 
 I am doing Theoretical Machine Learning, Optimization, Probability, Statistics.\
 My current research is focused on Online Learning, Bandits Theory and recently, some aspects of Game Theory. I like theoretical guarantees (but also do some numerical experiments from time to time). 
 
 
 I am always happy to learn new things and I am interested in everything.\
-[CV Here][CV]{:target="_blank"}!
+[Google Scholar here][GS]{:target="_blank"}!\
+[CV Here][CV]{:target="_blank"}!\
 Reach out to me!
 
 [CAIL]: https://ailab.criteo.com/
 [JA]: https://www.julyanarbel.com/
 [Statify]: https://team.inria.fr/statify/
 [PG]: http://pierre.gaillard.me/
+[TR]: https://scholar.google.lt/citations?hl=en&user=IFOAOTMAAAAJ&view_op=list_works&sortby=pubdate
 [Thoth]: https://team.inria.fr/thoth/
 
+[GS]: https://scholar.google.com/citations?user=I8n7BpAAAAAJ&hl=fr
 [CV]: {{site.url}}/download/JulienZHOU_CV.pdf
 
 -----
-### Work related stuff
-
-#### Preprints and Papers
+### Preprints and Papers
 - Towards Efficient and Optimal Covariance-Adaptive Algorithms for Combinatorial Semi-Bandits: [HAL][TowardsHAL], [arxiv][TowardsArxiv]
 
 [TowardsHAL]: https://hal.science/hal-04470568
 [TowardsArxiv]: https://arxiv.org/abs/2402.15171
 
-#### Events
+-----
+### Teaching
+- 2023-2024, Teaching assistant: Mathematical Foundations of Machine Learning (Online learning and RL part), Université Grenoble-Alpes
+
+-----
+### Events
+- International Conference on Machine Learning (ICML2024), 21/07/2024-27/07/2024
 - Journées de Statistique de la SFdS, 27/05/2024-31/05/2024
 - Reinforcement Learning Summer School, 26/06/2023-05/07/2023
 
 -----
 ### Miscellaneous
-I'm actually not certain of the correct spelling and pronunciation of the word “Miscellaneous".\
+I'm actually not certain of how to spell and pronounce “Miscellaneous".\
 I like food, food, and sleep.\
 I fear the dark, existential dread, and discovering a fatal flaw in one of my (still hypothetical) published papers.
 
