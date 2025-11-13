@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Phd student at Inria Grenoble-Alpes and [Criteo AI Lab][CAIL]. \
+I am a Phd student at Inria Grenoble-Alpes and [Criteo AI Lab][CAIL], and I am defending my PhD in January 2026. \
 I work under the supervision of [Julyan Arbel][JA] ([Inria Statify][Statify]), [Pierre Gaillard][PG] ([Inria Thoth][Thoth]), and [Thibaud Rahier][TR] ([Criteo AI Lab][CAIL]).
 
 I am doing Theoretical Machine Learning, Optimization, Probability, Statistics.\
-My current research is focused on Online Learning, Bandits Theory and recently, some aspects of Game Theory. I like theoretical guarantees (but also do some numerical experiments from time to time).
+My current research is focused on Online Learning, Bandits Theory. I like theoretical guarantees in general. (and PAC ones when possible). 
 
-I am always happy to learn new things and I am interested in everything.\
-[CV Here][CV]{:target="_blank"}!\
-(If you see someone sleeping on the floor in a conference, that's probably me, don't hesitate to wake me up to discuss.)
+***Currently Looking for opportunities.***\
+I hope to continue doing research, maybe a little more applied but keeping a theoretical flavor. Don't hesitate to reach out.
+
+I am always happy to learn new things.\
+[CV Here][CV]{:target="_blank"}!
 
 [CAIL]: https://ailab.criteo.com/
 [JA]: https://www.julyanarbel.com/
@@ -28,9 +30,12 @@ I am always happy to learn new things and I am interested in everything.\
 
 Events/Talks
 ======
-Future: Probably ALT2024\
+Future: Defending my PhD on 20/01/2026.\
 Past:
-- NeurIPS, 10/12/2024-15/12/2024
+- PAISS(Summer School), 01/09/2025-05/09/2025
+- Visiting scholar at University of Tubingen, Lifelong Reinforcement Learning Group, 04/2025-06/2025
+- ALT2025, 24/02/2025-27/02/2025
+- NeurIPS2024, 10/12/2024-15/12/2024
 - NeurIPS @ Paris, 04/12/2024-05/12/2024
 - Invited talk at University of Amsterdam about Submodular Optimization with Bandit feedbacks, 21/10/2024
 - ICML2024, 21/07/2024-27/07/2024
