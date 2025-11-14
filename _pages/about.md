@@ -11,7 +11,7 @@ I am a Phd student at Inria Grenoble-Alpes and [Criteo AI Lab][CAIL], and I am d
 I work under the supervision of [Julyan Arbel][JA] ([Inria Statify][Statify]), [Pierre Gaillard][PG] ([Inria Thoth][Thoth]), and [Thibaud Rahier][TR] ([Criteo AI Lab][CAIL]).
 
 I am doing Theoretical Machine Learning, Optimization, Probability, Statistics.\
-My current research is focused on Online Learning, Bandits Theory. I like theoretical guarantees in general. (and PAC ones when possible). 
+My current research is focused on Online Learning, Bandits Theory. I like theoretical guarantees in general (and PAC ones when possible). 
 
 ***Currently Looking for opportunities.***\
 I hope to continue doing research, maybe a little more applied but keeping a theoretical flavor. Don't hesitate to reach out.
